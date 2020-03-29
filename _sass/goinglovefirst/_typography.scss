@@ -1,0 +1,152 @@
+@charset "utf-8";
+
+// Golden Ratio Typography
+
+// Golden Scale: 16 @ 544
+
+h1 { font-size: 42px; line-height: 65px; }
+h2 { font-size: 33px; line-height: 52px; }
+h3 { font-size: 26px; line-height: 42px; }
+h4 { font-size: 20px; line-height: 33px; }
+h5 { font-size: 16px; line-height: 27px; }
+h6 { font-size: 13px; line-height: 23px; }
+
+// Golden Spacing Units: Base 27
+
+$spacing-unit-6: 44px;
+$spacing-unit-5: 27px;
+$spacing-unit-4: 17px;
+$spacing-unit-3: 11px;
+$spacing-unit-2: 7px;
+$spacing-unit-1: 4px;
+
+// GRT-provided CSS
+
+.grt {
+	max-width: 544px;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16px;
+	line-height: 27px;
+	padding: 17px;
+}
+.grt h1 {
+  font-size: 42px;
+  line-height: 65px;
+  margin-bottom: 27px;
+}
+.grt h2 {
+  font-size: 33px;
+  line-height: 52px;
+  margin-bottom: 27px;
+}
+.grt h3 {
+	font-size: 26px;
+	line-height: 42px;
+	margin-top: 44px;
+	margin-bottom: 17px;
+}
+.grt h4 {
+	font-size: 20px;
+	line-height: 33px;
+	margin-top: 27px;
+	margin-bottom: 11px;
+}
+.grt h5 {
+	font-size: 16px;
+	line-height: 27px;
+	margin-bottom: 7px;
+}
+.grt h6 {
+	font-size: 13px;
+	line-height: 23px;
+	margin-bottom: 4px;
+}
+.grt {
+  p,
+  ul,
+  ol,
+  blockquote,
+  pre,
+  .alert,
+  .note,
+  .box,
+  .footnotes {
+	   margin-bottom: 27px;
+  }
+}
+.grt ul,
+.grt ol {
+	margin-left: 27px;
+}
+.grt li {
+	margin-bottom: 11px;
+}
+.grt blockquote {
+	padding-left: 17px;
+	border-style: solid;
+	border-color: rgba(0,0,0,0.15);
+	border-width: 0 0 0 7px;
+}
+.grt sub,
+.grt sup {
+	padding: 0 1px;
+}
+.grt {
+  code,
+  pre,
+  kbd {
+	   font-size: 15px;
+   }
+}
+.grt code {
+	background-color: rgba(0,0,0,0.08);
+	padding: 3px 4px;
+	border-radius: 7px;
+	margin: 0 1px;
+}
+.grt pre {
+	padding: 11px;
+	border-style: solid;
+	border-color: rgba(0,0,0,0.15);
+	border-width: 0 0 0 7px;
+}
+.grt kbd {
+	background-color: #fff;
+	padding: 3px 4px;
+	border-radius: 4px;
+	box-shadow: 0 0 4px 0 rgba(0,0,0,0.45);
+	margin: 0 1px;
+}
+.grt .alert,
+.grt .note,
+.grt .box {
+	padding: 17px;
+}
+.grt .footnotes {
+	font-size: 13px;
+	line-height: 23px;
+	padding-top: 17px;
+	border-top: 1px dotted rgba(0,0,0,0.15);
+}
+.grt .footnotes p {
+	margin-bottom: 17px;
+}
+.grt {
+  ul ul,
+  ul ol,
+  ol ul,
+  ol ol,
+  blockquote.right p,
+  blockquote.left p,
+  .alert :last-child,
+  .note :last-child,
+  .box :last-child,
+  .footnotes :last-child {
+  	margin-bottom: 0;
+  }
+}
+@media all and (min-width: 598px) {
+	.grt {
+		padding: 27px;
+	}
+}

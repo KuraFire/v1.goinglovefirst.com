@@ -1,0 +1,84 @@
+# Site setings
+title: 'Love First'
+name: 'Love First'
+description: 'Blueprints for life in a world made with love.'
+meta_description: 'Love First is a shared-identity movement for people creating a world built on love.'
+logo: 'love-first-logo-white-on-pink.png'
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image: 'authorimage.jpg'
+  greetings: "Welcome to Love First"
+favicon: 'assets/images/favicon.png'
+baseurl:
+production_url: https://goinglovefirst.com/
+disqus: ''
+mailchimp_url: '//actthroughlovefirst.us17.list-manage.com/subscribe/post?u=73c317c2b3aec37f5c900c4cf&amp;id=1d2a6b3237'
+# Add your GA Tracking Id
+ga_analytics: 'UA-132737575-1'
+
+# Contact form setings
+email: faruk@goinglovefirst.com
+contact_page_description: "Contact Faruk Ateş"
+thankyou_page_description: "Your message has been put in a bottle and tossed in the digital ocean. You’ll hear from me once it makes shore."
+
+# livereload: true
+
+excerpt_separator: <!--more-->
+
+# collections:
+#   - authors
+#   - quotes
+
+# Social links
+twitter: 'kurafire'
+facebook: 'farukates'
+medium: '@kurafire'
+instagram: 'kurafire'
+linkedin: 'farukates'
+patreon: 'lovefirst'
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: What Is Love First
+    url: /what-is-love-first
+  - text: Going Love First
+    url: /practices
+  - text: Archive
+    url: /archive
+  - text: About Me
+    url: /about
+  - text: Contact
+    url: /contact
+  - text: Search
+    url: /search
+  # - text: Principles
+  #   url: /principles
+  # - text: Stories
+  #   url: /stories
+
+# plugins:
+#   - include_absolute
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+# Pagination
+paginate: 8
+paginate_path: /archive/page-:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed

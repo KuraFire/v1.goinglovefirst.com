@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+$color-bluegray-50:  #eaedf6;   $color-gray-50:  #fafafa;
+$color-bluegray-100: #cbd3e0;   $color-gray-100: #f5f5f5;
+$color-bluegray-200: #adb6c6;   $color-gray-200: #eeeeee;
+$color-bluegray-300: #8d99ae;   $color-gray-300: #e0e0e0;
+$color-bluegray-400: #76849b;   $color-gray-400: #bdbdbd;
+$color-bluegray-500: #5f6f89;   $color-gray-500: #9e9e9e;
+$color-bluegray-600: #526178;   $color-gray-600: #757575;
+$color-bluegray-700: #424e62;   $color-gray-700: #616161;
+$color-bluegray-800: #323c4c;   $color-gray-800: #424242;
+$color-bluegray-900: #202835;   $color-gray-900: #212121;
+
+$color-pink-50:      #fee3ee;   $color-blue-50:   #e2f2ff;
+$color-pink-100:     #fcb8d4;   $color-blue-100:  #baddff;
+$color-pink-200:     #fb89b8;   $color-blue-200:  #8dc8ff;
+$color-pink-300:     #fb539a;   $color-blue-300:  #5cb2ff;
+$color-pink-400:     #fa1982;   $color-blue-400:  #35a1ff;
+$color-pink-500:     #fa0069;   $color-blue-500:  #0791ff;
+$color-pink-600:     #e80067;   $color-blue-600:  #1982fa;
+$color-pink-700:     #d20062;   $color-blue-700:  #1f6fe6;
+$color-pink-800:     #bd005f;   $color-blue-800:  #225ed3;
+$color-pink-900:     #960059;   $color-blue-900:  #233db4;
+
+$color-orange-50:    #fef8e2;   $color-green-50:  #e3ffed;
+$color-orange-100:   #feecb5;   $color-green-100: #bafdd2;
+$color-orange-200:   #fde086;   $color-green-200: #85fcb4;
+$color-orange-300:   #fdd557;   $color-green-300: #19fa91;
+$color-orange-400:   #fcca36;   $color-green-400: #00f573;
+$color-orange-500:   #fcc123;   $color-green-500: #00ee5d;
+$color-orange-600:   #fbb41e;   $color-green-600: #00dd51;
+$color-orange-700:   #fba11b;   $color-green-700: #00c843;
+$color-orange-800:   #fa9119;   $color-green-800: #00b637;
+$color-orange-900:   #f97315;   $color-green-900: #009320;
+
+$color-purple-50:    #ffe2fd;   $color-red-50:   #ffe9ec;
+$color-purple-100:   #feb5f9;   $color-red-100:  #ffc8cd;
+$color-purple-200:   #fd7cf6;   $color-red-200:  #f69290;
+$color-purple-300:   #fa19f3;   $color-red-300:  #ed6564;
+$color-purple-400:   #f600ef;   $color-red-400:  #f63d3c;
+$color-purple-500:   #e700e2;   $color-red-500:  #fa2119;
+$color-purple-600:   #d500df;   $color-red-600:  #ec0a1b;
+$color-purple-700:   #bd00db;   $color-red-700:  #da0016;
+$color-purple-800:   #a600d7;   $color-red-800:  #cd000d;
+$color-purple-900:   #7a00cf;   $color-red-900:  #c00000;
+
+$color-white:   $color-gray-50;
+$color-black:   $color-bluegray-900;
+$color-love:    $color-pink-400;
+$color-link:    $color-blue-600;
+$color-warning: $color-orange-800;
+$color-danger:  $color-red-500;
+$color-good:    $color-green-300;
+$color-info:    $color-blue-600;
+
+// Social Media colors
+$color-patreon:   #F96854;
+$color-youtube:   #e52d27;
+$color-instagram: #E4405F;
+$color-github:    #24292e;
+$color-facebook:  #3b5998;
+$color-linkedin:  #2867B2;
+$color-twitter:   #1DA1F2;
+
+// Social icons
+a:hover .svg-icon {
+  &.patreon   { color: $color-patreon; }
+  &.youtube   { color: $color-youtube; }
+  &.instagram { color: $color-instagram; }
+  &.github    { color: $color-github; }
+  &.facebook  { color: $color-facebook; }
+  &.linkedin  { color: $color-linkedin; }
+  &.twitter   { color: $color-twitter; }
+}
