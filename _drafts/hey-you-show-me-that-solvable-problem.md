@@ -10,4 +10,4 @@ Tweet:
 — [https://twitter.com/kurafire/status/1245593421248466948?s=21]
 
 
-Spinel at the end: finding new love; every time you see another dimension to what love is, it feels like discovering falling in love for the first time.
+Spinel at the end: finding new love; every time you see another dimension to what love truly is, it feels like discovering falling in love for the first time.

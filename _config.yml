@@ -7,10 +7,10 @@ logo: 'love-first-logo-white-on-pink.png'
 # Author image is used in site sidebar
 author:
   image: 'authorimage.jpg'
-favicon: 'assets/images/favicon.png'
+favicon: 'favicon.ico'
 baseurl:
 production_url: https://goinglovefirst.com/
-disqus: ''
+# disqus: ''
 mailchimp_url: '//actthroughlovefirst.us17.list-manage.com/subscribe/post?u=73c317c2b3aec37f5c900c4cf&amp;id=1d2a6b3237'
 # Add your GA Tracking Id
 ga_analytics: 'UA-132737575-1'
@@ -20,7 +20,15 @@ email: faruk@goinglovefirst.com
 contact_page_description: "Contact Faruk Ateş"
 thankyou_page_description: "Your message has been put in a bottle and tossed in the digital ocean. You’ll hear from me once it makes shore."
 
-livereload: true
+# livereload: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 excerpt_separator: <!--more-->
 
@@ -35,7 +43,7 @@ medium: '@kurafire'
 instagram: 'kurafire'
 linkedin: 'farukates'
 patreon: 'lovefirst'
-github: 'kurafire'
+# github: 'kurafire'
 # youtube: 'UCPuRuvU8puT0GbWAkuR7Ljw' # Channel ID
 
 # Navigation
@@ -43,15 +51,15 @@ navigation:
   - text: Home
     url: /
   - text: What Is Love First?
-    url: /what-is-love-first
+    url: /what-is-love-first/
   - text: Going Love First
-    url: /practices
+    url: /practices/
   - text: Archive
-    url: /archive
+    url: /archive/
   - text: About Me
-    url: /about
+    url: /about/
   - text: Contact
-    url: /contact
+    url: /contact/
   - text: Search
     url: /search
   # - text: Principles
