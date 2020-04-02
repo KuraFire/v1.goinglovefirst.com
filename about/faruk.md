@@ -2,6 +2,8 @@
 layout: page
 title: "Faruk Ateş: Love First Person"
 permalink: /about/faruk/
+redirect_from:
+- /author/faruk/
 ---
 
 Faruk will write a new bio soon.

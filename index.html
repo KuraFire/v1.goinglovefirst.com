@@ -14,7 +14,7 @@ title: Welcome
 <!-- Featured-->
 <div id="featured-posts" class="featured-posts">
     {% for post in site.posts %}
-    {% if post.featured == true %}
+    {% if post.featured == true and post.featured_image %}
     {% include featuredbox.html %}
     {% endif %}
     {% endfor %}

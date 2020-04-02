@@ -10,3 +10,5 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll-admin', group: :jekyll_plugins
+
+gem 'jekyll-redirect-from'

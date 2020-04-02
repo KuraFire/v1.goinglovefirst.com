@@ -14,7 +14,11 @@ post_class: post-template
                     {{ page.date | date: "%B %-d, %Y" }}
                 </time>
             </div><!-- .post-meta -->
-            <h1 class="post-title">{{ page.title }}</h1>
+            <h1 class="post-title">{{ page.title | escape }}</h1>
+            {% if page.legacy %}
+            <p class="legacy"><b>Note:</b><br/>
+              This is a legacy story, and should be considered as historical context only.</p>
+            {% endif %}
             {% if page.tags.size > 0 %}
             <p class="post-tags">
                 {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}"
@@ -30,7 +34,17 @@ post_class: post-template
         </div>
         {% endif %}
         <div class="post-content">
-            {{content}}
+          {{content}}
+          {% if page.featured_image_credit %}
+            <hr/>
+            <p class="photo-credit">Photo credit:
+            {% if page.featured_image_source %}
+              <a href="{{ page.featured_image_source }}" rel="noopener external">{{ page.featured_image_credit }}</a>
+            {% else %}
+              {{ page.featured_image_credit }}
+            {% endif %}
+            </p>
+          {% endif %}
         </div>
         <footer class="post-footer">
             <div class="post-share">

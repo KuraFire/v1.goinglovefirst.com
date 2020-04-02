@@ -35,12 +35,27 @@
   .post-meta {
     margin: 0.25em 0;
   }
-  
+
   ul.archive-posts-list {
     li {
       margin-bottom: 2em;
     }
   }
+}
+
+.photo-credit {
+  color: $gray;
+  font-style: italic;
+  a {
+    color: $gray;
+    font-weight: bold;
+  }
+}
+.legacy {
+  color: $color-orange-900;
+  font-size: 1.3em;
+  font-style: italic;
+  margin: 1em 0 0;
 }
 
 .newsletter-box {
