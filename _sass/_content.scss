@@ -42,7 +42,7 @@
 .caption-text {
   margin-bottom: 1.66667em;
   padding-top: 1%;
-  text-align: center; 
+  text-align: center;
 }
 
 .post-tags,
@@ -297,11 +297,18 @@ ul.archive-posts-list {
 }
 
 .hero-text {
-  color: $gray-darkest;
+  color: $gray;
   font-family: $font-secondary;
-  font-size: 1.66667rem;
+  // font-size: 1.66667rem;
+  font-size: 1.4rem;
+  font-style: italic;
   line-height: 1.2;
   margin: 0;
+
+  a:link,
+  a:visited {
+    color: inherit;
+  }
 }
 
 /* Featured posts */

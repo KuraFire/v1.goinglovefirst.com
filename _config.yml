@@ -4,10 +4,9 @@ name: 'Love First'
 description: 'Blueprints for life in a world made with love.'
 meta_description: 'Love First is a shared-identity movement for people creating a world built on love.'
 logo: 'love-first-logo-white-on-pink.png'
-# Author image is used in site sidebar and greetings in the home page hero text
+# Author image is used in site sidebar
 author:
   image: 'authorimage.jpg'
-  greetings: "Welcome to Love First"
 favicon: 'assets/images/favicon.png'
 baseurl:
 production_url: https://goinglovefirst.com/
@@ -21,7 +20,7 @@ email: faruk@goinglovefirst.com
 contact_page_description: "Contact Faruk Ateş"
 thankyou_page_description: "Your message has been put in a bottle and tossed in the digital ocean. You’ll hear from me once it makes shore."
 
-# livereload: true
+livereload: true
 
 excerpt_separator: <!--more-->
 
@@ -36,12 +35,14 @@ medium: '@kurafire'
 instagram: 'kurafire'
 linkedin: 'farukates'
 patreon: 'lovefirst'
+github: 'kurafire'
+# youtube: 'UCPuRuvU8puT0GbWAkuR7Ljw' # Channel ID
 
 # Navigation
 navigation:
   - text: Home
     url: /
-  - text: What Is Love First
+  - text: What Is Love First?
     url: /what-is-love-first
   - text: Going Love First
     url: /practices
