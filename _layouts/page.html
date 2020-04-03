@@ -5,6 +5,9 @@ layout: default
 <main id="main" class="site-main">
     <article class="post-full inner">
         <header class="post-header">
+          {% if page.principle %}
+          <p class="principles-breadcrumb"><a href="/principles/">The Principles Of Love First</a> / {{ page.principle_byline }}</p>
+          {% endif %}
             <h1 class="post-title">{{ page.title }}</h1>
         </header><!-- .post-header -->
         {% if page.featured_image %}

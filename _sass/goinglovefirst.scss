@@ -48,6 +48,14 @@ nobr {
   }
 }
 
+.principles-list {
+  list-style: none;
+
+  li {
+    margin: 0 0 .5rem;
+  }
+}
+
 .photo-credit {
   color: $gray;
   font-style: italic;
@@ -56,11 +64,26 @@ nobr {
     font-weight: bold;
   }
 }
+
 .legacy {
   color: $color-orange-900;
   font-size: 1.3em;
   font-style: italic;
   margin: 1em 0 0;
+}
+
+.principles-breadcrumb {
+  color: $gray-light;
+  margin: 0 0 .5rem;
+
+  a {
+    color: $gray;
+
+    &:focus,
+    &:hover {
+      color: $color-accent;
+    }
+  }
 }
 
 .newsletter-box {
