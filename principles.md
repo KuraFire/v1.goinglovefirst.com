@@ -1,6 +1,7 @@
 ---
 title: The Principles Of Love First
 permalink: /principles/
+featured_image: /assets/images/principles/principles-love-first.jpg
 ---
 
 Our principles are the foundations of our ways of being. We have personal values, beliefs, and behaviors that define our inner layer of identity.
