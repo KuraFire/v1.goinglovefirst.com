@@ -68,6 +68,65 @@
   }
 }
 
+// Social icons
+.social-links {
+  a {
+    padding-top: 4px;
+    position: relative;
+
+    &.patreon   span { background-color: $color-patreon; }
+    &.youtube   span { background-color: $color-youtube; }
+    &.instagram span { background-color: $color-instagram; }
+    &.medium    span { background-color: $color-medium; }
+    &.github    span { background-color: $color-github; }
+    &.facebook  span { background-color: $color-facebook; }
+    &.linkedin  span { background-color: $color-linkedin; }
+    &.twitter   span { background-color: $color-twitter; }
+    &.rss       span { background-color: $color-rss; }
+  }
+
+  span {
+    border-radius: 3px;
+    color: $color-white;
+    display: inline-block;
+    font-size: 0.8rem;
+    height: 1rem;
+    line-height: 1rem;
+    left: calc(-50% - 8px);
+    opacity: 0;
+    padding: 0 4px;
+    position: absolute;
+    top: -14px;
+    transform: translateY(0) scaleX(.69);
+    transition: opacity .2s ease, transform .2s ease;
+  }
+  a:first-of-type span {
+    left: -5px;
+  }
+  a:last-of-type span {
+    right: -5px;
+  }
+  a:focus,
+  a:hover {
+    outline: none;
+
+    &.patreon   { color: $color-patreon;   }
+    &.youtube   { color: $color-youtube;   }
+    &.instagram { color: $color-instagram; }
+    &.medium    { color: $color-medium;    }
+    &.github    { color: $color-github;    }
+    &.facebook  { color: $color-facebook;  }
+    &.linkedin  { color: $color-linkedin;  }
+    &.twitter   { color: $color-twitter;   }
+    &.rss       { color: $color-rss;       }
+
+    span {
+      opacity: 1;
+      transform: translateY(-5px) scaleX(1);
+    }
+  }
+}
+
 // Form Overrides
 input[type="text"],
 input[type="email"],

@@ -10,8 +10,8 @@ title: You Told Me Not To Love Myself
 tags: [Legacy, Stories]
 ---
 
-
 ## A story about love, human connection, and changing the world.
+<!--more-->
 
 My name is Faruk, and I cherish it dearly. I was born and raised in The Netherlands to a Dutch mother and Turkish immigrant father, and have one older sibling, my sister Nuriye.
 

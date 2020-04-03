@@ -54,6 +54,7 @@ $color-good:    $color-green-300;
 $color-info:    $color-blue-600;
 
 // Social Media colors
+$color-rss:       #ff6600;
 $color-patreon:   #F96854;
 $color-youtube:   #e52d27;
 $color-instagram: #E4405F;
@@ -62,15 +63,3 @@ $color-github:    #24292e;
 $color-facebook:  #3b5998;
 $color-linkedin:  #2867B2;
 $color-twitter:   #1DA1F2;
-
-// Social icons
-a:hover .svg-icon {
-  &.patreon   { color: $color-patreon; }
-  &.youtube   { color: $color-youtube; }
-  &.instagram { color: $color-instagram; }
-  &.medium    { color: $color-medium; }
-  &.github    { color: $color-github; }
-  &.facebook  { color: $color-facebook; }
-  &.linkedin  { color: $color-linkedin; }
-  &.twitter   { color: $color-twitter; }
-}

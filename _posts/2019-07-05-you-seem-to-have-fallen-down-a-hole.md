@@ -11,6 +11,7 @@ tags: [Legacy]
 ---
 
 ## On the distinction between empathy, sympathy, compassion, understanding, and love, and what it means to _act through the emotional lens of love, first_.
+<!--more-->
 
 Excuse me, human, but you seem to have fallen down a hole.
 Your predicament deserves more than my mere acknowledgment of it.

@@ -1,42 +1,47 @@
 <p class="social-links">
     {% if site.twitter %}
-    <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
-        {% include icons/twitter.html %}
+    <a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener external" class="twitter">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#twitter' | relative_url }}"></use></svg> <span>Twitter</span>
     </a>
     {% endif %}
     {% if site.facebook %}
-    <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank">
-        {% include icons/facebook.html %}
+    <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank" rel="noopener external" class="facebook">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#facebook' | relative_url }}"></use></svg> <span>Facebook</span>
     </a>
     {% endif %}
     {% if site.instagram %}
-    <a href="https://www.instagram.com/{{ site.instagram }}" target="_blank">
-      {% include icons/instagram.html %}
+    <a href="https://www.instagram.com/{{ site.instagram }}" target="_blank" rel="noopener external" class="instagram">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#instagram' | relative_url }}"></use></svg> <span>Instagram</span>
     </a>
     {% endif %}
     {% if site.linkedin %}
-    <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
-      {% include icons/linkedin.html %}
+    <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener external" class="linkedin">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#linkedin' | relative_url }}"></use></svg> <span>LinkedIn</span>
     </a>
     {% endif %}
     {% if site.medium %}
-    <a href="https://medium.com/{{ site.medium }}" target="_blank">
-      {% include icons/medium.html %}
+    <a href="https://medium.com/{{ site.medium }}" target="_blank" rel="noopener external" class="medium">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#medium' | relative_url }}"></use></svg> <span>Medium</span>
     </a>
     {% endif %}
     {% if site.youtube %}
-    <a href="https://www.youtube.com/{{ site.youtube }}" target="_blank">
-      {% include icons/youtube.html %}
+    <a href="https://www.youtube.com/{{ site.youtube }}" target="_blank" rel="noopener external" class="youtube">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#youtube' | relative_url }}"></use></svg> <span>YouTube</span>
     </a>
     {% endif %}
     {% if site.patreon %}
-    <a href="https://www.patreon.com/{{ site.patreon }}" target="_blank">
-      {% include icons/patreon.html %}
+    <a href="https://www.patreon.com/{{ site.patreon }}" target="_blank" rel="noopener external" class="patreon">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#patreon' | relative_url }}"></use></svg> <span>Patreon</span>
+    </a>
+    {% endif %}
+    {% if site.rss %}
+    <a href="{{ site.rss | relative_url }}" class="rss">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#rss' | relative_url }}"></use></svg> <span>RSS</span>
     </a>
     {% endif %}
     {% if site.github %}
-    <a href="https://github.com/{{ site.github }}" target="_blank">
-        {% include icons/github.html %}
+    <a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener external" class="github">
+      <svg viewBox="0 0 32 32"><use xlink:href="{{ '/assets/icons/social-icons.svg#github' | relative_url }}"></use></svg> <span>Github</span>
     </a>
     {% endif %}
 </p>

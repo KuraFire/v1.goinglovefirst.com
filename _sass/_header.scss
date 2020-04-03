@@ -4,7 +4,7 @@
  */
 .site-header {
   background: $gray-darkest;
-  color: #fff;
+  color: $color-white;
 }
 
 .site-header-inside {
@@ -29,13 +29,20 @@
   margin: 0 10px 0 0;
 }
 
-.site-logo a,
 .profile a {
   color: $gray-darkest;
 }
 
 .site-logo img {
   max-height: 45px;
+}
+
+.site-logo a {
+  color: $gray-darkest;
+
+  &:focus img {
+    outline: 4px solid $color-accent;
+  }
 }
 
 .profile .avatar {
@@ -52,11 +59,18 @@
   font-weight: 600;
   line-height: 1;
   margin: 0;
-}
 
-.site-title a {
-  color: #fff;
-  text-decoration: none;
+  a {
+    display: inline-block;
+    color: $color-white;
+    padding: 2px 4px;
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .site-description {
@@ -72,7 +86,7 @@
 
 #menu-toggle {
   background-color: transparent;
-  color: #fff;
+  color: $color-white;
   height: 30px;
   margin-left: auto;
   padding: 0;
@@ -120,11 +134,13 @@
 
 .menu-item {
   border-top: 1px solid $gray-dark;
-  padding: 0.5em 0;
+  padding: 0.25em 0;
 }
 
 .menu-item a {
+  display: inline-block;
   color: $gray-light;
+  padding: 0.25em 5px;
   text-decoration: none;
 }
 
@@ -164,7 +180,9 @@ a[href$="/rss/"] svg {
   height: 16px;
 }
 
+.social-links a:focus,
 .social-links a:hover,
+.menu-item a:focus,
 .menu-item a:hover,
 .current-menu-item a {
   color: $color-accent;

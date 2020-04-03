@@ -28,7 +28,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "default"
+      layout: "page"
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -43,6 +43,7 @@ excerpt_separator: <!--more-->
 #   - quotes
 
 # Social links
+rss: 'feed.xml'
 twitter: 'kurafire'
 facebook: 'farukates'
 medium: '@kurafire'
@@ -58,6 +59,8 @@ navigation:
     url: /
   - text: What Is Love First?
     url: /what-is-love-first/
+  - text: The Principles
+    url: /principles/
   - text: Going Love First
     url: /practices/
   - text: Archive

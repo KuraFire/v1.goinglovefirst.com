@@ -11,6 +11,7 @@ tags: [Legacy, Stories]
 ---
 
 ##  Love can and should be expressed freely, even if to strangers.
+<!--more-->
 
 It’s Valentine’s day, and I am walking to work thinking about ideas I have for the _Love First_ storytelling platform I want to create in the future, when a woman walks out of Sightglass Coffee carrying a bundle of roses.
 
