@@ -20,8 +20,6 @@ email: faruk@goinglovefirst.com
 contact_page_description: "Contact Faruk Ateş"
 thankyou_page_description: "Your message has been put in a bottle and tossed in the digital ocean. You’ll hear from me once it makes shore."
 
-# livereload: true
-
 defaults:
   -
     scope:
@@ -70,11 +68,11 @@ navigation:
   - text: Contact
     url: /contact/
   - text: Search
-    url: /search
-  # - text: Principles
-  #   url: /principles
+    url: /search/
+  # - text: Models
+  #   url: /models/
   # - text: Stories
-  #   url: /stories
+  #   url: /stories/
 
 # plugins:
 #   - include_absolute
