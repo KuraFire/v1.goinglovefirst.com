@@ -5,9 +5,14 @@ layout: default
 <main id="main" class="site-main">
     <article class="post-full inner">
         <header class="post-header">
-          {% if page.principle %}
-          <p class="principles-breadcrumb"><a href="/principles/">The Principles Of Love First</a> / {{ page.principle_byline }}</p>
-          {% endif %}
+          {% case page.breadcrumb %}
+            {% when 'principles' %}
+            <p class="breadcrumb"><a href="/principles/">The Principles Of Love First</a>: {{ page.principle_byline }}</p>
+            {% when 'about' %}
+            <p class="breadcrumb"><a href="/about/faruk/">About Faruk Ateş</a>:</p>
+            {% else %}
+            <p class="breadcrumb"><a href="{{ page.breadcrumb.url }}">{{ page.breadcrumb.title }}</a>: {{ page.breadcrumb.addendum }}</p>
+          {% endcase %}
             <h1 class="post-title">{{ page.title }}</h1>
         </header><!-- .post-header -->
         {% if page.featured_image %}

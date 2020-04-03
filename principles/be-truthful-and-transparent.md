@@ -1,5 +1,6 @@
 ---
 title: "Be Truthful And Transparent"
+breadcrumb: 'principles'
 principle: 2
 principle_byline: The Water Element
 ---

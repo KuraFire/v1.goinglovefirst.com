@@ -1,5 +1,6 @@
 ---
 title: "Love"
+breadcrumb: 'principles'
 principle: 1
 principle_byline: The Heart Element
 ---

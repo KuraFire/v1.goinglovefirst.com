@@ -1,5 +1,6 @@
 ---
 title: "Believe In Possibility"
+breadcrumb: 'principles'
 principle: 4
 principle_byline: The Air Element
 ---
