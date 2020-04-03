@@ -1,17 +1,19 @@
 ---
 layout: page
-title: What is Love First
+title: What is Love First?
 ---
 
 <!-- # What Is Love First (reboot) -->
 
 <!-- what is it? -->
-Love First is a way of life. A movement. A shared identity for people who want to align themselves explicitly and strategically towards building a sustainable and inclusive future for all of us: a world made with love, first.
+<p><nobr>Love First</nobr> is a way of life. A movement. A shared identity for people who want to align themselves explicitly and strategically towards building a sustainable and inclusive future for all of us: a world made with love, first.</p>
 
 <!-- why do we need it? -->
 All across the planet countless people are creating holistic, sustainable, and fairer solutions for the myriad challenges we face: from local neighborhood crises to global threats like climate change and, presently, the coronavirus pandemic. These efforts make important, even life-saving differences in millions of people’s lives, but throughout all the good will and work there is a more powerful message to the world that is currently left unspoken.
 
-With your help and participation, Love First seeks to put words to that message, to say with profound conviction:
+Love First seeks to put words to that message, with your help and participation.
+
+to say with profound conviction:
 
 <!--  Our Message Of Love: -->
 - We are all one: a citizen of the world, each of us equally worthy of love and belonging;

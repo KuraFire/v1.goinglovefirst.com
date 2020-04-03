@@ -1,14 +1,20 @@
 ---
 layout: page
-title: "Faruk Ateş: Love First Person"
+title: "About Faruk Ateş"
 permalink: /about/faruk/
 redirect_from:
 - /author/faruk/
 ---
 
-Faruk will write a new bio soon.
+### Love First Person
+
+### Love. Evolve. Connect.
+
+
 
 
 More about Faruk:
 
-* [I have three gender identities](/about/faruk/gender-identities): male, catdragon, and puppy.
+* [Love First Person]({% link about/faruk/love-first-person.md %})
+* [I have three gender identities]({% link about/faruk/gender-identities.md %}): male, catdragon, and puppy.
+* First Things First: I’m A Time Traveler
