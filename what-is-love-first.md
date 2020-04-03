@@ -1,6 +1,6 @@
 ---
-layout: page
 title: What is Love First?
+permalink: /what-is-love-first/
 ---
 
 <!-- # What Is Love First (reboot) -->
