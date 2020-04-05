@@ -1,4 +1,4 @@
 ---
-title: "Faruk Ateş: Love First Person"
+title: "Love First Person"
 breadcrumb: 'about'
 ---

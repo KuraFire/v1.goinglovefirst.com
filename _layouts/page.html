@@ -7,9 +7,9 @@ layout: default
         <header class="post-header">
           {% if page.breadcrumb %}{% case page.breadcrumb %}
             {% when 'principles' %}
-            <p class="breadcrumb"><a href="/principles/">The Principles Of Love First</a>: {{ page.principle_byline }}</p>
+            <p class="breadcrumb principles"><a href="/principles/">Love First Principles</a>: {{ page.principle_byline }}</p>
             {% when 'about' %}
-            <p class="breadcrumb"><a href="/about/faruk/">About Faruk Ateş</a>:</p>
+            <p class="breadcrumb about"><a href="/about/">About</a>: Faruk Ateş</p>
             {% else %}
             <p class="breadcrumb"><a href="{{ page.breadcrumb.url }}">{{ page.breadcrumb.title }}</a>: {{ page.breadcrumb.addendum }}</p>
           {% endcase %}{% endif %}

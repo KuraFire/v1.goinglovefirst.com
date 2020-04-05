@@ -73,16 +73,32 @@ nobr {
 }
 
 .breadcrumb {
-  color: $gray-light;
+  color: $gray;
+  font-weight: 200;
   margin: 0 0 .5rem;
+  text-transform: uppercase;
+  transition: all .5s ease 0s;
 
   a {
-    color: $gray;
+    color: $gray-dark;
+    display: inline-block;
+    text-decoration: none;
+    transition: all .25s ease 0s;
 
     &:focus,
     &:hover {
       color: $color-accent;
+      text-decoration: underline;
     }
+  }
+  &.about a:hover {
+    text-shadow:
+    0  -8px 2px rgba($color-accent, 0.25);
+    // 0 -13px 2px rgba($color-accent, 0.2),
+    // 0 -21px 2px rgba($color-accent, 0.15),
+    // 0 -34px 2px rgba($color-accent, 0.1);
+    // Why the shadows?
+    // More will be enabled as the Love First team grows.
   }
 }
 
