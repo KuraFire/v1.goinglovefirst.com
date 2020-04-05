@@ -14,7 +14,10 @@ Dive deeper into the principles below:
 
 {% assign principles = site.pages | where_exp: "item", "item.principle" | sort: "principle" %}
 {% for page in principles %}
-<li><a href="{{ page.url }}"><strong>{{ page.title }}</strong></a><br/>
+  {% if page.element %}{% capture elem %}{{ page.element }}{% endcapture %}
+  {% capture elem_icon %}{% include element-icon.html element=elem %}{% endcapture %}
+  {% endif %}
+<li>{{ elem_icon }}<a href="{{ page.url }}"><strong>{{ page.title }}</strong></a><br/>
   {{ page.principle_byline }}</li>
 {% endfor %}
 

@@ -48,11 +48,28 @@ nobr {
   }
 }
 
+svg.element {
+  height: 1em;
+
+  &.heart { color: $color-love; }
+  &.water { color: $color-blue-500; }
+  &.fire  { color: $color-orange-900; }
+  &.air   { color: $color-bluegray-200; }
+  &.earth { color: $color-green-700; }
+}
+
 .principles-list {
   list-style: none;
+  padding: 0;
 
   li {
+    line-height: 1.4rem;
     margin: 0 0 .8rem;
+  }
+  svg.element {
+    height: 1.4rem;
+    float: left;
+    margin: 0.5rem 0.7rem;
   }
 }
 
