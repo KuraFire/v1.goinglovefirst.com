@@ -5,10 +5,42 @@ layout: null
   {% for post in site.posts %}
     {
       "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
+      "desc"     : "tags: {{ post.tags | join: ', ' | default: '(none)' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date: '%B %-d, %Y'}}"
+      "meta"     : "Post: {{ post.date | date: '%B %-d, %Y'}}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for page in site.html_pages %}
+    {
+      {%- unless page.url == "/"
+              or page.url == "/404.html"
+              or page.url == "/tags/"
+              or page.url == "/thank-you"
+              or page.url == "/plan/"
+              or page.url == '/search/' -%}
+      {% if page.title  %}
+        "title"    : "{{ page.title | escape }}",
+        "desc"     : "{{ page.excerpt | escape | default: page.title }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "meta"     : "Page: {{page.url}}"
+      {% endif %}
+      {%- endunless -%}
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% assign principles = site.principles | sort: "principle_order" %}
+  {% for principle in principles %}
+    {%- if principle.principle_byline -%}
+      {%- assign principle_meta = principle.principle_byline | prepend: 'Principle: ' -%}
+    {%- else -%}
+      {%- assign principle_meta = 'Principle' -%}
+    {%- endif -%}
+    {
+      "title"    : "{{ principle.title | escape }}",
+      "desc"     : "{{ principle.principle_byline | default: principle.title }}",
+      "url"      : "{{ site.baseurl }}{{ principle.url }}",
+      "meta"     : "{{ principle_meta }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

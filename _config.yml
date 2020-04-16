@@ -17,8 +17,30 @@ ga_analytics: 'UA-132737575-1'
 
 # Contact form setings
 email: faruk@goinglovefirst.com
-contact_page_description: "Contact Faruk Ateş"
 thankyou_page_description: "Your message has been put in a bottle and tossed in the digital ocean. You’ll hear from me once it makes shore."
+
+# SEO config
+social:
+  name: Faruk Ateş
+  links:
+    - https://twitter.com/kurafire
+    - https://medium.com/@kurafire
+    - https://instagram.com/kurafire
+    - https://www.facebook.com/farukates
+    - https://www.linkedin.com/in/farukates
+    - https://www.patreon.com/lovefirst
+  platforms:
+    twitter: 'kurafire'
+    facebook: 'farukates'
+    medium: '@kurafire'
+    instagram: 'kurafire'
+    linkedin: 'farukates'
+    patreon: 'lovefirst'
+    # github: 'kurafire'
+
+twitter:
+  username: kurafire
+  card: summary
 
 defaults:
   -
@@ -63,12 +85,12 @@ collections:
 
 # Social links
 rss: 'feed.xml'
-twitter: 'kurafire'
-facebook: 'farukates'
-medium: '@kurafire'
-instagram: 'kurafire'
-linkedin: 'farukates'
-patreon: 'lovefirst'
+# twitter: 'kurafire'
+# facebook: 'farukates'
+# medium: '@kurafire'
+# instagram: 'kurafire'
+# linkedin: 'farukates'
+# patreon: 'lovefirst'
 # github_user: 'kurafire'
 # youtube: 'UCPuRuvU8puT0GbWAkuR7Ljw' # Channel ID
 
