@@ -21,6 +21,9 @@
     // Responsive video embeds
     $('.post-content').fitVids();
 
+    // Remove fbclid
+    removeParam('fbclid');
+
     // Menu on small screens
     $menuToggle.on('click', function(e){
       $body.toggleClass('menu--opened');
@@ -52,6 +55,21 @@
     });
 
   });
+
+  function removeParam(parameter) {
+    let params   = new URLSearchParams(document.location.search);
+    let urlParts = document.location.href.split('?');
+    let newUrl;
+
+    params.delete(parameter);
+
+    if (params.toString() !== "") {
+      newUrl = urlParts[0] + '?' + params.toString()
+    } else {
+      newUrl = urlParts[0];
+    }
+    history.replaceState('', document.title, newUrl);
+  }
 
   function isMobile() {
     if ( $menuToggle.is(':hidden') ) {
