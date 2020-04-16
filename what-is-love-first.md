@@ -24,9 +24,10 @@ Love First seeks to put words to that message, with your help and participation.
 - We commit to:
   - Start using the tools of love and sustainability to build tomorrow’s society, instead of  using the tools of shame and judgement that pervade the world of today;
   - Start elevating each other through new or evolved practices, and make them accessible to anyone in their daily lives, instead of deriving pleasure or value from things that harm other people (whether for entertainment or profit);
-  -
 
-This message, based on the most loving efforts of people worldwide, …
+_Note: more to come; this document is unfinished._
+
+<!-- This message, based on the most loving efforts of people worldwide, … -->
 
 <!-- how can I get it? -->
 
