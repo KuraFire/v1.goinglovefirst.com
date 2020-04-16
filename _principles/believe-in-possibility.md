@@ -21,3 +21,10 @@ Without possibility, there is no hope. Like air, we rarely value or even notice 
 
 > You don’t become what you want, you become what you believe.
 > ― Oprah Winfrey
+
+<!--
+@credits: 5000
+@for: evolving principle Believe -> Believe In Possibility
+@person: Mazin Jamal
+@organization: Academy For Coaching Excellence
+-->

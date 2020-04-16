@@ -50,3 +50,9 @@ We cast out our inner shadow not by pretending it isn’t there, but by shining 
 
 
 
+<!--
+@credits: 5000
+@for: evolving principle Honest -> Truthful
+@person: Maria Nemeth
+@organization: Academy For Coaching Excellence
+-->
