@@ -1,14 +1,57 @@
 @charset "utf-8";
 
+// Fibonacci
 // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597
+
+:target {
+  background-color: rgba($color-orange-50, .8);
+  outline: 4px solid rgba($color-orange-50, .8);
+}
 
 nobr {
   color: $color-accent;
   font-weight: bold;
 }
+del {
+  display: none;
+}
+ins {
+  background-color: $color-green-50;
+}
+
+blockquote {
+  color: $color-love;
+  font-size: 1.6rem;
+  font-style: italic;
+  line-height: 1.5;
+
+  cite {
+    font-size: 0.6em;
+  }
+  cite::before,
+  cite::after {
+    color: $color-bluegray-100;
+    content: "—";
+    display: inline-block;
+    padding: 0 1em;
+  }
+
+  &.big-text {
+    border-left: 4px solid $color-bluegray-300;
+    color: $gray;
+    font-size: 1rem;
+    margin: 1em 0;
+    padding: 4px 1em;
+    text-align: left;
+
+    &::before {
+      display: none;
+    }
+  }
+}
 
 // Unique page overrides
-#glf_page_archive {
+#archive {
   .inner {
     max-width: 900px;
   }
@@ -63,13 +106,14 @@ svg.element {
   padding: 0;
 
   li {
+    clear: both;
     line-height: 1.4rem;
-    margin: 0 0 .8rem;
+    margin: 0 0 1rem;
   }
   svg.element {
     height: 1.4rem;
     float: left;
-    margin: 0.5rem 0.7rem;
+    margin: 0.5rem 0.7rem 2rem;
   }
 }
 
@@ -84,9 +128,12 @@ svg.element {
 
 .legacy {
   color: $color-orange-900;
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-style: italic;
   margin: 1em 0 0;
+  a {
+    color: $color-orange-900;
+  }
 }
 
 .breadcrumb {
@@ -116,6 +163,28 @@ svg.element {
     // 0 -34px 2px rgba($color-accent, 0.1);
     // Why the shadows?
     // More will be enabled as the Love First team grows.
+  }
+}
+
+.principle .read-next {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  .post {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+  .post-title a:focus,
+  .post-title a:hover {
+    text-decoration: underline;
+  }
+  .read-next-title {
+    margin: 0 0 1.61em;
+
+    &::after {
+      width: 82px;
+    }
   }
 }
 
@@ -189,6 +258,7 @@ svg.element {
 }
 
 // Form Overrides
+textarea,
 input[type="text"],
 input[type="email"],
 input[type="password"] {
@@ -216,6 +286,7 @@ input[type="submit"] {
     box-shadow: $color-pink-100 0 2px 5px ;
   }
 }
+textarea::placeholder,
 input::placeholder {
   font-style: italic;
   color: $color-bluegray-300;

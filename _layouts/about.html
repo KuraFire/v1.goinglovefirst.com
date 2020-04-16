@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<main id="archive" class="site-main">
-    <section class="post-full inner grt">
+<main id="main" class="site-main">
+    <article class="post-full inner grt">
         <header class="post-header">
+            <p class="breadcrumb about"><a href="/about/">About</a>: {{ page.person }}</p>
             <h1 class="post-title">{{ page.title }}</h1>
         </header><!-- .post-header -->
         {% if page.image %}
@@ -13,7 +14,7 @@ layout: default
         <div class="post-content inner">
             {{content}}
         </div>
-    </section>
+    </article>
     {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
     {% endif %}

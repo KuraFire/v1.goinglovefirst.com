@@ -136,6 +136,9 @@
   .site-title {
     font-size: 1.33333rem;
     line-height: 1.2;
+    a {
+      padding: 2px 4px;
+    }
   }
   .site-description {
     font-size: 0.66667rem;
@@ -283,7 +286,7 @@
   }
   .post-full .post-content > p:first-child:first-letter {
     font-size: 60px;
-    margin-right: 10px;
+    margin-right: 13px;
   }
 }
 

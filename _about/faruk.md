@@ -6,10 +6,14 @@ redirect_from:
 - /author/faruk/
 ---
 
+## Principal Storyteller
+
+
+
 ### Love First Person
 
-### Love. Evolve. Connect.
 
+### Love. Evolve. Connect.
 
 
 

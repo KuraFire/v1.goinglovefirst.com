@@ -74,21 +74,21 @@ $spacing-unit-1: 4px;
 	   margin-bottom: 27px;
   }
 }
-.grt ul,
-.grt ol {
-	margin-left: 27px;
-}
+// .grt ul,
+// .grt ol {
+// 	margin-left: 27px;
+// }
 .grt li {
 	margin-bottom: 11px;
 }
-.grt blockquote {
-	padding-left: 17px;
-	border-style: solid;
-	border-color: rgba(0,0,0,0.15);
-	border-width: 0 0 0 7px;
-}
-.grt sub,
-.grt sup {
+// .grt blockquote {
+// 	padding-left: 17px;
+// 	border-style: solid;
+// 	border-color: rgba(0,0,0,0.15);
+// 	border-width: 0 0 0 7px;
+// }
+.grt sub a,
+.grt sup a {
 	padding: 0 1px;
 }
 .grt {
@@ -99,7 +99,7 @@ $spacing-unit-1: 4px;
    }
 }
 .grt code {
-	background-color: rgba(0,0,0,0.08);
+	background-color: $color-bluegray-50;
 	padding: 3px 4px;
 	border-radius: 7px;
 	margin: 0 1px;
@@ -107,14 +107,14 @@ $spacing-unit-1: 4px;
 .grt pre {
 	padding: 11px;
 	border-style: solid;
-	border-color: rgba(0,0,0,0.15);
+	border-color: $color-bluegray-100;
 	border-width: 0 0 0 7px;
 }
 .grt kbd {
-	background-color: #fff;
+	background-color: $color-white;
 	padding: 3px 4px;
 	border-radius: 4px;
-	box-shadow: 0 0 4px 0 rgba(0,0,0,0.45);
+	box-shadow: 0 0 4px 0 $color-bluegray-200;
 	margin: 0 1px;
 }
 .grt .alert,
@@ -126,7 +126,7 @@ $spacing-unit-1: 4px;
 	font-size: 13px;
 	line-height: 23px;
 	padding-top: 17px;
-	border-top: 1px dotted rgba(0,0,0,0.15);
+	border-top: 1px dotted $color-pink-100;
 }
 .grt .footnotes p {
 	margin-bottom: 17px;
@@ -145,7 +145,7 @@ $spacing-unit-1: 4px;
   	margin-bottom: 0;
   }
 }
-@media all and (min-width: 598px) {
+@media all and (min-width: 601px) {
 	.grt {
 		padding: 27px;
 	}

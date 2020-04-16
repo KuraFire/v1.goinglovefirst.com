@@ -33,10 +33,31 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "principles"
+    values:
+      layout: "principle"
+  -
+    scope:
+      path: ""
+      type: "about"
+    values:
+      layout: "about"
+      person: "Faruk Ateş"
 
 excerpt_separator: <!--more-->
 
-# collections:
+collections:
+  principles:
+    output: true
+    permalink: /:collection/:name
+    sort_by: principle_order
+  about:
+    output: true
+    permalink: /:collection/:path
+
 #   - authors
 #   - quotes
 

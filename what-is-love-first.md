@@ -1,7 +1,7 @@
 ---
 title: What is Love First?
 permalink: /what-is-love-first/
-featured_image: /assets/images/what-is-lf-clean.jpg
+image: /assets/images/what-is-lf-clean.jpg
 ---
 
 >

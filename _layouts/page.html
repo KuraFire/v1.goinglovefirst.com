@@ -3,20 +3,15 @@ layout: default
 ---
 
 <main id="main" class="site-main">
-    <article class="post-full inner">
+    <article class="post-full inner grt">
         <header class="post-header">
-          {% if page.breadcrumb %}{% case page.breadcrumb %}
-            {% when 'principles' %}
-            <p class="breadcrumb principles"><a href="/principles/">Love First Principles</a>: {{ page.principle_byline }}</p>
-            {% when 'about' %}
-            <p class="breadcrumb about"><a href="/about/">About</a>: Faruk Ateş</p>
-            {% else %}
+          {%- if page.breadcrumb.url and page.breadcrumb.title -%}
             <p class="breadcrumb"><a href="{{ page.breadcrumb.url }}">{{ page.breadcrumb.title }}</a>: {{ page.breadcrumb.addendum }}</p>
-          {% endcase %}{% endif %}
+          {%- endif -%}
             <h1 class="post-title">{{ page.title }}</h1>
         </header><!-- .post-header -->
-        {% if page.featured_image %}
-        <div class="post-thumbnail"><img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{% if page.featured_image_alt %}{{ page.featured_image_alt }}{% else %}{{ page.title }}{% endif %}" /></div>
+        {% if page.image %}
+        <div class="post-thumbnail"><img src="{{ site.baseurl }}{{ page.image }}" alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}" /></div>
         {% endif %}
         <div class="post-content inner">
             {{content}}

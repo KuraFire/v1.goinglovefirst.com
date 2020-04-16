@@ -151,7 +151,7 @@ blockquote p:last-child {
 
 blockquote small,
 blockquote cite {
-  color: $gray-light;
+  color: $color-bluegray-400;
   display: block;
   font-family: $font-primary;
   font-size: 0.5em;
@@ -905,6 +905,5 @@ body.hidden-scroll {
   border: 1px solid $gray-lighter;
   border-radius: 3px;
   box-sizing: border-box;
-  margin-bottom: 3.33333em;
-  padding: 35px 30px 45px;
+  padding: 35px 30px 5px;
 }

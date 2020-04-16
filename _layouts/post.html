@@ -6,7 +6,7 @@ post_class: post-template
 
 <main id="main" class="site-main">
 
-    <article class="post-full inner">
+    <article class="post-full inner grt">
 
         <header class="post-header">
             <div class="post-meta">
@@ -15,10 +15,10 @@ post_class: post-template
                 </time>
             </div><!-- .post-meta -->
             <h1 class="post-title">{{ page.title | escape }}</h1>
-            {% if page.legacy %}
-            <p class="legacy"><b>Note:</b><br/>
-              This is a legacy story, and should be considered as historical context only.</p>
-            {% endif %}
+            {%- if page.legacy -%}
+            <p class="legacy"><b>Note: Legacy Story</b><br/>
+              This {{ page.date | date: "%B %-d, %Y" }} story should be considered as historical context per the <a href="{% link _posts/2020-04-02-reboot.md %}">reboot</a>.</p>
+            {%- endif -%}
             {% if page.tags.size > 0 %}
             <p class="post-tags">
                 {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}"
@@ -28,20 +28,20 @@ post_class: post-template
             {% endif %}
         </header><!-- .post-header -->
 
-        {% if page.featured_image %}
+        {% if page.image %}
         <div class="post-thumbnail">
-            <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
+            <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
         </div>
         {% endif %}
         <div class="post-content">
           {{content}}
-          {% if page.featured_image_credit %}
+          {% if page.image_credit %}
             <hr/>
             <p class="photo-credit">Photo credit:
-            {% if page.featured_image_source %}
-              <a href="{{ page.featured_image_source }}" rel="noopener external">{{ page.featured_image_credit }}</a>
+            {% if page.image_source %}
+              <a href="{{ page.image_source }}" rel="noopener external">{{ page.image_credit }}</a>
             {% else %}
-              {{ page.featured_image_credit }}
+              {{ page.image_credit }}
             {% endif %}
             </p>
           {% endif %}

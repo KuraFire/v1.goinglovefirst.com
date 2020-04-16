@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Welcome to Love First
 ---
 <main id="main" class="site-main">
 
@@ -15,7 +15,7 @@ title: Welcome
 <!-- Featured-->
 <div id="featured-posts" class="featured-posts">
     {% for post in site.posts %}
-    {% if post.featured == true and post.featured_image %}
+    {% if post.featured == true and post.image %}
     {% include featuredbox.html %}
     {% endif %}
     {% endfor %}

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<main id="main" class="site-main principle">
+    <article class="post-full inner">
+        <header class="post-header">
+            <p class="breadcrumb principles">
+              <a href="/principles/">Love First Principles</a>: {{ page.principle_byline }}
+            </p>
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header><!-- .post-header -->
+        {% if page.image %}
+        <div class="post-thumbnail"><img src="{{ site.baseurl }}{{ page.image }}" alt="{% if page.image_alt %}{{ page.image_alt }}{% else %}{{ page.title }}{% endif %}" /></div>
+        {% endif %}
+        <div class="post-content inner">
+            {{content}}
+        </div>
+    </article>
+
+    {%- assign prev = page.principle_order | minus: 2 -%}
+    {%- assign next = page.principle_order | plus: 0 -%}
+    {%- assign principles = site.principles | sort: "principle_order" -%}
+    <section class="read-next inner">
+      {%- if prev != -1 and principles[prev] -%}
+        <article class="post prev">
+          <h2 class="read-next-title">&lt; Previous</h2>
+          <h3 class="post-title"><a href="{{ principles[prev].url }}">{{ principles[prev].title }}</a></h3>
+          <p class="post-meta">{{ principles[prev].principle_byline | default: "Love First Principle" }}</p>
+        </article>
+      {%- endif -%}
+      {%- if principles[next] -%}
+        <article class="post next">
+          <h2 class="read-next-title">Next &gt;</h2>
+          <h3 class="post-title"><a href="{{ principles[next].url }}">{{ principles[next].title }}</a></h3>
+          <p class="post-meta">{{ principles[next].principle_byline | default: "Love First Principle" }}</p>
+        </article>
+      {%- endif -%}
+    </section>
+    {% if site.mailchimp_url %}
+    {% include newsletter-box.html %}
+    {% endif %}
+</main><!-- .site-main -->

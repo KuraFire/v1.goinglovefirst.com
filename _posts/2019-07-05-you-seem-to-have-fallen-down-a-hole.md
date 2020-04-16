@@ -1,16 +1,16 @@
 ---
 title: You Seem To Have Fallen Down A Hole
 tags: [Legacy]
-featured_image: assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash.jpg
-featured_image_thumb: assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash_thumbnail.jpg
-featured_image_credit: Iswanto Arif
-featured_image_source: https://unsplash.com/photos/KXtMGheovdw
+image: assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash.jpg
+image_thumb: assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash_thumbnail.jpg
+image_credit: Iswanto Arif
+image_source: https://unsplash.com/photos/KXtMGheovdw
 featured: false
 legacy: true
 hidden: true
 ---
 
-## On the distinction between empathy, sympathy, compassion, understanding, and love, and what it means to _act through the emotional lens of love, first_.
+### On the distinction between empathy, sympathy, compassion, understanding, and love, and what it means to _act through the emotional lens of love, first_.
 <!--more-->
 
 Excuse me, human, but you seem to have fallen down a hole.

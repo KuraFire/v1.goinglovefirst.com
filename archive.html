@@ -1,19 +1,18 @@
 ---
 layout: archive
 title: Archive
-html_id: page_archive
 permalink: /archive/
 ---
 
   <ul class="archive-posts-list">
   {% for post in site.posts %}
-    <li{% if post.featured_image %} class="has-thumbnail"{% endif %}>
+    <li{% if post.image %} class="has-thumbnail"{% endif %}>
       <h4>
-        {% if post.featured_image or post.featured_image_thumbnail %}
-        {% assign image = post.featured_image_thumbnail | default: post.featured_image %}
+        {% if post.image or post.image_thumbnail %}
+        {% assign image = post.image_thumbnail | default: post.image %}
         <a href="{{ post.url | absolute_url }}" class="post-thumbnail">
           <span class="thumbnail"><img src="{{ image | prepend: '/' }}"
-            alt="{% if post.featured_image_alt %}{{ post.featured_image_alt }}{% else %}{{ post.title }}{% endif %}"></span>{{ post.title }}</a>
+            alt="{% if post.image_alt %}{{ post.image_alt }}{% else %}{{ post.title }}{% endif %}"></span>{{ post.title }}</a>
         {% else %}
         <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
         {% endif %}
