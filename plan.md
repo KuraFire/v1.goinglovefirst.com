@@ -1,12 +1,13 @@
 ---
 layout: page
 title: The plan for Love First
+permalink: /plan/
 ---
 
 <nobr>Note:</nobr>  
 Hello, friend! If you’re reading this, it means I have personally given you this URL for intro & feedback purposes, or I shared it with the person who sent this page to you<!-- or, you’re looking under the hood or in my repository. -->. Please do not share this page publicly at this time.
 
-### What Love First is for me
+### What Love First is (for me)
 For me it is a way of life: a daily practice of trying to align myself to love, of channeling my actions through a holistic lens of love. It’s about creating a conscious hero’s journey with my life, cultivating my own unique identity while simultaneously saying: _I am one with humanity, and we are all one together, connected to each other, each of us worthy of love and belonging no matter who we are._ It’s saying <q>“the salvation of mankind is through love and in love”</q>[^1], recognizing that love is available to us at all times if we open ourselves up to it (and own our actions where needed), and that we can receive its bliss no matter how dire our circumstances are.
 
 But Love First is also a mentality or mindset to me, a way of looking at and understanding the world that has given me enormous emotional strength, stability, and resilience; it has reduced my stress and anxiety down to almost nothing despite the increasingly scary times we live in. It has been the foundation for all my greatest connections with the people in my life, from relationship partners and lovers to friends and even complete strangers who have reached out to me in support.
