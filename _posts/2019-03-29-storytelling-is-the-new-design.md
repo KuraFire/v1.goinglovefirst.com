@@ -1,8 +1,8 @@
 ---
 title: Storytelling Is The New Design
 tags: [Legacy, Stories]
-image: assets/images/posts/2019/nong-vang-577609-unsplash.jpg
-image_thumb: assets/images/posts/2019/nong-vang-577609-unsplash_thumbnail.jpg
+image: /assets/images/posts/2019/nong-vang-577609-unsplash.jpg
+image_thumb: /assets/images/posts/2019/nong-vang-577609-unsplash_thumbnail.jpg
 image_credit: Nong Vang
 image_source: https://unsplash.com/photos/9pw4TKvT3po
 featured: false

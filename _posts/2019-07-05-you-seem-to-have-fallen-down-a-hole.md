@@ -1,8 +1,8 @@
 ---
 title: You Seem To Have Fallen Down A Hole
 tags: [Legacy]
-image: assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash.jpg
-image_thumb: assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash_thumbnail.jpg
+image: /assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash.jpg
+image_thumb: /assets/images/posts/2019/iswanto-arif-KXtMGheovdw-unsplash_thumbnail.jpg
 image_credit: Iswanto Arif
 image_source: https://unsplash.com/photos/KXtMGheovdw
 featured: false

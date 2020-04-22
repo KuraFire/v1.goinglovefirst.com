@@ -1,8 +1,8 @@
 ---
 title: You Told Me Not To Love Myself
 tags: [Legacy, Stories]
-image: assets/images/posts/2019/jerry-wang-1160270-unsplash.jpg
-image_thumb: assets/images/posts/2019/jerry-wang-1160270-unsplash_thumbnail.jpg
+image: /assets/images/posts/2019/jerry-wang-1160270-unsplash.jpg
+image_thumb: /assets/images/posts/2019/jerry-wang-1160270-unsplash_thumbnail.jpg
 image_credit: Jerry Wang
 image_source: https://unsplash.com/photos/F6lHEP87YGc
 featured: false

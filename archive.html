@@ -11,7 +11,7 @@ permalink: /archive/
         {% if post.image or post.image_thumbnail %}
         {% assign image = post.image_thumbnail | default: post.image %}
         <a href="{{ post.url | absolute_url }}" class="post-thumbnail">
-          <span class="thumbnail"><img src="{{ image | prepend: '/' }}"
+          <span class="thumbnail"><img src="{{ image }}"
             alt="{% if post.image_alt %}{{ post.image_alt }}{% else %}{{ post.title }}{% endif %}"></span>{{ post.title }}</a>
         {% else %}
         <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>

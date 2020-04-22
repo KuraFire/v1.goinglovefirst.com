@@ -1,8 +1,8 @@
 ---
 title: Leave A Trail
 tags: [Legacy, Stories]
-image: assets/images/posts/2019/spacex-71873-unsplash.jpg
-image_thumb: assets/images/posts/2019/spacex-71873-unsplash_thumbnail.jpg
+image: /assets/images/posts/2019/spacex-71873-unsplash.jpg
+image_thumb: /assets/images/posts/2019/spacex-71873-unsplash_thumbnail.jpg
 image_credit: SpaceX
 image_source: https://unsplash.com/photos/-p-KCm6xB9I
 featured: false

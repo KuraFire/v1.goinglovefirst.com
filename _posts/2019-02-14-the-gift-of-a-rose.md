@@ -1,8 +1,8 @@
 ---
 title: The Gift Of A Rose
 tags: [Legacy, Stories]
-image: assets/images/posts/2019/the-gift-of-a-rose-header.jpg
-image_thumb: assets/images/posts/2019/the-gift-of-a-rose-header_thumbnail.jpg
+image: /assets/images/posts/2019/the-gift-of-a-rose-header.jpg
+image_thumb: /assets/images/posts/2019/the-gift-of-a-rose-header_thumbnail.jpg
 image_credit: Faruk Ateş
 image_source:
 featured: false
