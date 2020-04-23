@@ -5,7 +5,7 @@ image: /assets/images/what-is-lf-clean.jpg
 ---
 
 <!-- what is it? -->
-Hello, and: welcome everyone! <nobr>Love First</nobr> is a way of life. A movement. A shared identity for people who want to build bridges <del>for a sustainable and inclusive</del><ins>to a</ins> future for all of us: a world made with love.
+Hello, and: welcome everyone! <nobr>Love First</nobr> is a way of life. A shared identity for people who want to build bridges for a harmonious, sustainable and inclusive future: a world for all of us, made with love.
 <!-- Hint for those looking under the hood: what might the meaning of a colon be? -->
 
 
