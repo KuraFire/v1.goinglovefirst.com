@@ -43,7 +43,7 @@ The overview below previews a selection of articles, essays, and posts I’m wor
 	- The Opportunities That The Coronavirus Pandemic Offers (GDoc)
 	- I Want To Live In The World Inside My Head
 	- I’m The (Unreliable) Narrator And This Is Just The Prologue
-	- I Didn’t Come Here To Tell You How This Is Going To End; I Came Here To Tell You How It’s Going To Begin
+	- I Didn’t Come Here To Tell You How This Is Going To End
 * ✅ [What Is Love First](/what-is-love-first):
 	- [Love First Is… An Idea](/love-first-is/blueprint) (Blueprints For Life)
 	- [Love First Is… A Way Of Being](/love-first-is/ontology)

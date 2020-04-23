@@ -1,6 +1,6 @@
 ---
 title: A Universal Model For Growth
-category: [Models]
+category: Models
 description: Nature’s sustainable, harmonious, and resilient model can be our foundation for a brighter future.
 ---
 
