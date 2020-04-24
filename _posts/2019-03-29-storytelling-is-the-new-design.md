@@ -11,7 +11,7 @@ hidden: true
 ---
 
 ## We need stories to thrive. And we need to tell stories, to evolve.
-
+<!--more-->
 In 2001, Apple Computer began telling a new story to the world. It introduced the iPod and evolved its image from a pioneer in the computing industry to a design-driven, mass-market consumer electronics company. With the introduction of the iPhone in 2007, when I had the joy of working there myself, Apple put the final period at the end of that story by dropping the “Computer” from their name.
 
 Their story was, of course, far from finished, but they were writing a new chapter. This week, at the “Show Time” Apple Event in Cupertino, that new chapter was finally revealed. As always, [the pundits](https://500ish.com/apple-unveils-the-ifawn-11c00912a686) and [technology writers](https://daringfireball.net/2019/03/show_time_event_thoughts_and_observations) will need a moment to figure out what has changed and why they suddenly don’t “get” Apple as well as they did a week ago. Apple, of course, knows exactly what they’re telling: **a story to change the world**. But what excited me about this event is their acknowledgement they are no longer the protagonist in that story; _we_ are.

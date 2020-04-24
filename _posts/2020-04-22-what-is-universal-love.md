@@ -7,6 +7,7 @@ image_thumb: /assets/images/posts/2020/greg-rakozy-oMpAz-DN-9I-unsplash_thumbnai
 image_credit: Greg Rakozy
 image_source: https://unsplash.com/photos/oMpAz-DN-9I
 living: true
+excerpt: It stirs the soul in all of us.
 ---
 
 

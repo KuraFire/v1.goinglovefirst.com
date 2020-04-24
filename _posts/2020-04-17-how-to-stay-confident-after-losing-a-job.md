@@ -5,14 +5,16 @@ image: /assets/images/posts/2020/lobostudio-hamburg-yBJw1up4n44-unsplash.jpg
 image_thumb: /assets/images/posts/2020/lobostudio-hamburg-yBJw1up4n44-unsplash_thumbnail.jpg
 image_credit: LoboStudio Hamburg
 image_source: https://unsplash.com/photos/yBJw1up4n44
+excerpt: Bolster your self-image with strategic self-talk.
 ---
 
 <!--
 _This is part of a series on identity resilience
 
 * Identity is created by the story you tell about yourself.
-* That story is within your control, but without (ongoing) conscious thought and effort put into it, it will be told by a combination of your values, beliefs, and behaviors.
-*
+* That story is within your control, but without (ongoing) conscious thought and effort put into it, that story will be told by a combination of your values, beliefs, and behaviors.
+* Our locus of control can be internal or external.
+* If we lean more external, our identity is shaped more by external factors like outcomes and behavior; if we lean more internal, our identity gets shaped more by our inner narrative (self-talk)
 * Willpower is generated through tiny habits (actions) that are consistent with your stated commitments (words)
 
 -->

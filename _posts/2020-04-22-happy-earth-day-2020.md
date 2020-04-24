@@ -5,6 +5,7 @@ image: /assets/images/posts/2020/citizen-of-the-world.png
 image_thumb: /assets/images/posts/2020/citizen-of-the-world_thumbnail.png
 image_credit: Boonyachoat (GettyImages, via Canva)
 image_source:
+excerpt: I have never been as grateful for Earth’s resilience, beauty, and strength.
 ---
 
 > I have no country to fight for; my country is the earth. I am a citizen of the world.
