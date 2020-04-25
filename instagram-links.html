@@ -1,0 +1,20 @@
+---
+title: Instagram Links
+hidden: true
+layout: archive
+---
+
+<p>“Link in bio” on Instagram points here to track link history. The most recent mentions are at the top.</p>
+
+<ul class="archive-posts-list">
+{% for post in site.data.instagram %}
+  <li class="has-thumbnail">
+    <h4>
+      <a href="{{ post.url }}" class="post-thumbnail">
+        <span class="thumbnail"><img src="{{ post.image }}" alt=""></span>{{ post.title }}</a>
+    </h4>
+    <p class="post-meta"><time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+    <p class="instalink"><a href="{{ post.instalink }}" rel="external">See post on Instagram</a></p>
+  </li>
+{% endfor %}
+</ul>
