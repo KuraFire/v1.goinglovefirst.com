@@ -19,6 +19,9 @@ ga_analytics: 'UA-132737575-1'
 email: submissions@goinglovefirst.com
 thankyou_page_description: "Your message has been put in a bottle and tossed in the digital ocean. You’ll hear from me once it makes shore."
 
+# Social links
+rss: 'feed.xml'
+
 # SEO config
 social:
   name: Faruk Ateş
@@ -37,6 +40,7 @@ social:
     linkedin: 'farukates'
     patreon: 'lovefirst'
     # github: 'kurafire'
+    # youtube: 'UCPuRuvU8puT0GbWAkuR7Ljw' # Channel ID
 
 twitter:
   username: kurafire
@@ -80,19 +84,10 @@ collections:
     output: true
     permalink: /:collection/:path
 
+# TODO: As sollections, data sets, or includes?
 #   - authors
 #   - quotes
 
-# Social links
-rss: 'feed.xml'
-# twitter: 'kurafire'
-# facebook: 'farukates'
-# medium: '@kurafire'
-# instagram: 'kurafire'
-# linkedin: 'farukates'
-# patreon: 'lovefirst'
-# github_user: 'kurafire'
-# youtube: 'UCPuRuvU8puT0GbWAkuR7Ljw' # Channel ID
 
 # Navigation
 navigation:
@@ -117,18 +112,16 @@ navigation:
   # - text: Stories
   #   url: /stories/
 
-# plugins:
-#   - include_absolute
-
+# Plugins
 plugins:
   - jekyll-redirect-from
+  # - include_absolute
 
 # Required Plugins
 plugins_dir:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-
 
 # Pagination
 paginate: 8
