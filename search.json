@@ -4,7 +4,7 @@ layout: null
 [
   {% for post in site.posts %}
     {
-      "title"    : "{{ post.title | escape }}",
+      "title"    : "{{ post.title | strip_html | escape }}",
       "desc"     : "tags: {{ post.tags | join: ', ' | default: '(none)' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "meta"     : "Post: {{ post.date | date: '%B %-d, %Y'}}"
@@ -20,7 +20,7 @@ layout: null
               or page.url == "/plan/"
               or page.url == '/search/' -%}
       {% if page.title  %}
-        "title"    : "{{ page.title | escape }}",
+        "title"    : "{{ page.title | strip_html | escape }}",
         "desc"     : "{{ page.excerpt | escape | default: page.title }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
         "meta"     : "Page: {{page.url}}"
@@ -37,7 +37,7 @@ layout: null
       {%- assign principle_meta = 'Principle' -%}
     {%- endif -%}
     {
-      "title"    : "{{ principle.title | escape }}",
+      "title"    : "{{ principle.title | strip_html | escape }}",
       "desc"     : "{{ principle.principle_byline | default: principle.title }}",
       "url"      : "{{ site.baseurl }}{{ principle.url }}",
       "meta"     : "{{ principle_meta }}"

@@ -1,5 +1,5 @@
 ---
-title: What is Love First?
+title: What is <nobr>Love First</nobr>?
 permalink: /what-is-love-first/
 image: /assets/images/what-is-lf-clean.jpg
 ---
@@ -8,7 +8,12 @@ image: /assets/images/what-is-lf-clean.jpg
 Hello, and: welcome everyone! <nobr>Love First</nobr> is a way of life. A shared identity for people who want to build bridges for a harmonious, sustainable and inclusive future: a world for all of us, made with love.
 <!-- Hint for those looking under the hood: what might the meaning of a colon be? -->
 
+<!-- what, why, and how of A WAY OF LIFE -->
+As a way of life, <nobr>Love First</nobr> is built around 3 core tenets:
 
+1. Continuous collective improvement <!-- (“conscious evolution”)  -->
+2. Radical reconnection
+3. Creating a harmonious future for everyone, together
 
 <!-- why do we need it? -->
 All across the planet countless people are creating holistic, sustainable, and fairer solutions for the myriad challenges we face: from local neighborhood crises to global threats like climate change and, presently, the coronavirus pandemic. Their efforts make important, even life-saving differences in millions of people’s lives, but throughout all the good will and work there is a more powerful message to the world that remains largely unspoken. It is an undercurrent of harmony, present and discernible in the words and deeds of so many, yet rarely pointed out for its true value to us as a society.
