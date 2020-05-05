@@ -13,7 +13,7 @@ excerpt: The world of yesterday was unsustainable. We have an opportunity today 
 
 The world of yesterday was unsustainable. Today, more than ever, we have an opportunity to consciously envision and create a better world for tomorrow.
 
-A better, sustainable and brighter future takes more than radical overhaul of economic systems and governments. Countless areas of human life and civilization will need radical rethinking, but perhaps the most critical domain is the one each of us can change starting today:
+A better, sustainable and brighter future takes more than [radical overhaul of economic systems and governments](https://www.theguardian.com/world/2020/apr/08/amsterdam-doughnut-model-mend-post-coronavirus-economy), although those are very necessary steps. Countless areas of [human society will a grounds-up rethinking](https://www.newyorker.com/culture/annals-of-inquiry/the-coronavirus-and-our-future), but perhaps the most critical domain is the one each of us can change starting today:
 
 ### How we think about ourselves and others
 
