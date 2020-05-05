@@ -5,6 +5,7 @@ image: "/assets/images/posts/2020/dewang-gupta-IJXbmfBdIZk.jpg"
 image_thumb: "/assets/images/posts/2020/dewang-gupta-IJXbmfBdIZk-thumbnail.jpg"
 image_credit: Dewang Gupta
 image_source: https://unsplash.com/photos/IJXbmfBdIZk
+excerpt: The world of yesterday was unsustainable. We have an opportunity today to envision a better world for tomorrow.
 ---
 
 
@@ -52,6 +53,7 @@ What do we call something pleasing and special, where each individual element is
 **A harmony.**
 
 Let us become the first _harmony of humanity_.
+<!-- You can start today. -->
 
 And make this decade the Decade of Love.
 
