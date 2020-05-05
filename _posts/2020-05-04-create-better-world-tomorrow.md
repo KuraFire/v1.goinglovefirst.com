@@ -5,7 +5,7 @@ image: "/assets/images/posts/2020/dewang-gupta-IJXbmfBdIZk.jpg"
 image_thumb: "/assets/images/posts/2020/dewang-gupta-IJXbmfBdIZk-thumbnail.jpg"
 image_credit: Dewang Gupta
 image_source: https://unsplash.com/photos/IJXbmfBdIZk
-excerpt: The world of yesterday was unsustainable. We have an opportunity today to envision a better world for tomorrow.
+excerpt: We have an opportunity to become something greater than a generation.
 ---
 
 
