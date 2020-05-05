@@ -19,7 +19,7 @@ A better, sustainable and brighter future takes more than [radical overhaul of e
 
 We have to move on from _“us versus them”_ to _“us all versus the problems”_ — but how do we do that?
 
-We intentionally cultivate our capacity to love; by growing our skill and understanding of love _on love’s terms_. Not by _my_ ideological terms, yours, or anyone’s-but love’s. And love itself is unconditional. Sustainable, balanced, resilient. And above all, true _[universal love](https://goinglovefirst.com/definitions/what-is-universal-love)_ is harmonious.
+We intentionally cultivate our capacity to love; by growing our skill and understanding of love _on love’s terms_. Not by _my_ ideological terms, yours, or anyone’s—but love’s. And love itself is unconditional. Sustainable, balanced, resilient. And above all, true _[universal love](https://goinglovefirst.com/definitions/what-is-universal-love)_ is harmonious.
 
 It starts by consciously defining yourself as a person who holds love for all people; a baseline saying “you are human and therefore worthy of love and belonging, above all else.” No exceptions. (Accountability yes; exceptions no.)
 
