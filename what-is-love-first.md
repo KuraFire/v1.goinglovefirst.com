@@ -9,8 +9,8 @@ Hello, and: welcome everyone! <nobr>Love First</nobr> is a way of life, a shared
 <!-- Hint for those looking under the hood: what might the meaning of a colon be? -->
 
 ```
-                👋🏼
-                
+              👋🏼👋🏼👋🏼
+
          Hello, and welcome!
 
 This firmware is currently being written.
