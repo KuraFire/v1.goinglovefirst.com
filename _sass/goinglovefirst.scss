@@ -12,10 +12,12 @@ nobr {
   font-weight: bold;
 }
 del {
-  display: none;
+  // display: none;
+  color: $color-bluegray-100;
 }
 ins {
   background-color: $color-green-50;
+  text-decoration: underline;
 }
 
 a[href$="#asfat"] {
