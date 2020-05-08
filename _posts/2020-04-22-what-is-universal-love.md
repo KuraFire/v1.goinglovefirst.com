@@ -18,11 +18,11 @@ Universal love is the unmistakable joy radiating from within when, no matter who
 
 It is the deepest essence of truth, provoking a feeling so pure that, even as it confronts your views or challenges your beliefs, you know in your core not to argue with it.
 
-It is the idea that broadens your understanding of the world, and gives you the courage and strength to broaden your understanding of you.
+It is the idea that broadens your understanding of the world, and gives you the courage and strength to broaden your understanding of _you_.
 
-It is the inclusion of all, and understanding such a world is not merely possible, but truly inevitable.
+It is the inclusion of all in one’s belief for a better world, and understanding such a world is not merely possible, but truly inevitable.
 
-It is the current that runs deep within each of us, reminding us that we are all one at the heart of this existence we call life, connected and interconnected to the societies and ecologies all around us.
+It is the current that runs deep within each of us, reminding us that we are all one at the heart of this existence we call life; connected and interconnected to the societies and ecologies around us.
 
 And universal love is _universal_, in that [its properties are found across the stars](https://goinglovefirst.com/models/universal-growth-model).
 
