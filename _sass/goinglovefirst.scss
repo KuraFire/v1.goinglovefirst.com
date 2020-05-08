@@ -7,6 +7,39 @@
   outline: 4px solid rgba($color-orange-50, .8);
 }
 
+// 404 page
+#asfat {
+
+  .not-404 {
+    display: none;
+  }
+
+  &:target {
+    background-color: rgba(#fff, 0);
+    outline: none;
+
+    .not-404 {
+      display: block;
+    }
+    .asfat {
+      background-color: $color-pink-50;
+      border-radius: 8px;
+      padding: 34px 5px 5px;
+      margin: 8px 0 34px;
+
+      h4 {
+        color: $color-bluegray-400;
+      }
+      p {
+        color: $color-bluegray-800;
+      }
+      nobr {
+        font-size: 144%;
+      }
+    }
+  }
+}
+
 nobr {
   color: $color-accent;
   font-weight: bold;
