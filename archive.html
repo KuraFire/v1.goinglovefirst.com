@@ -6,7 +6,8 @@ permalink: /archive/
 
   <ul class="archive-posts-list">
   {% for post in site.posts %}
-    <li{% if post.image %} class="has-thumbnail"{% endif %}>
+    {% if post.image %}
+    <li class="has-thumbnail">
       <h4>
         {% if post.image or post.image_thumbnail %}
         {% assign image = post.image_thumbnail | default: post.image %}
@@ -30,5 +31,6 @@ permalink: /archive/
       <p class="post-categories"><a href="{{ site.baseurl }}/{{ category | downcase | cgi_escape }}" rel="tag">{{ category }}</a></p>
       {% endif %}
     </li>
+    {% endif %}
   {% endfor %}
   </ul>
