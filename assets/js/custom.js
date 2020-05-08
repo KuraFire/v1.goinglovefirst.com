@@ -23,6 +23,7 @@
 
     // Remove fbclid
     removeParam('fbclid');
+    removeParam('__source');
 
     // Menu on small screens
     $menuToggle.on('click', function(e){
