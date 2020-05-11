@@ -5,7 +5,7 @@ principle_byline: The Water Element
 image: /assets/images/principles/terry-vlisidis-SFEvfN01-ao-unsplash.jpg
 image_thumbnail: /assets/images/principles/terry-vlisidis-SFEvfN01-ao-unsplash_thumbnail.jpg
 element: water
-excerpt: The Water Element calls us to see the life-giving truth with clarity and focus.
+excerpt: The Water Element calls us to see the truth in our lives with clarity and focus.
 ---
 
 > Water flows with no agenda, clear to the truth.
