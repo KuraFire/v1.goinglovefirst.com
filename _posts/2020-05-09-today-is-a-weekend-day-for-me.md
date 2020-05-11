@@ -2,7 +2,7 @@
 title: Today Is A Weekend Day For Me
 ---
 
-I do a thing, sometimes in the morning. I say to myself: 
+I do a thing, sometimes in the morning. I say to myself:
 
 ## Today Is A Weekend Day For Me
 
@@ -21,8 +21,3 @@ I say that in the morning when I wake up, or after breakfast, or at 11:59 AM jus
 And some times…
 
 Sometimes I say that at 11:34 PM on the Saturday, and write<!-- . --> This <!-- is the fourth puzzle --> piece. And publish that, instead of the daily story that I had committed to publishing every day.
-
-
-<!-- And I will ask Matthew, as hint 3: "Is today a weekend day for you?"
-
-part of the piece is on the github commit, as a comment. -->
