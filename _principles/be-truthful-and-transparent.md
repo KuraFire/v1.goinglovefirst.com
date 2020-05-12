@@ -8,7 +8,7 @@ element: water
 excerpt: The Water Element calls us to see the truth in our lives with clarity and focus.
 ---
 
-> Water flows with no agenda, clear to the truth.
+> Water flows with no agenda, clear only to the truth.
 <cite>Love First</cite>
 
 The Water Element calls us to **Be Truthful And Transparent**, a practice similarly essential to life. Water is clear, flowing honestly and easily. When we act in alignment with this principle, when we are true to who we are and transparent about our goals, we too will walk the easiest path.

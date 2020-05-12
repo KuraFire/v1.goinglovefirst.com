@@ -53,6 +53,11 @@ ins {
   text-decoration: underline;
 }
 
+.undiscovered {
+  color: $color-bluegray-300;
+  font-style: italic;
+}
+
 a[href$="#asfat"] {
   color: inherit;
   text-decoration: none;
