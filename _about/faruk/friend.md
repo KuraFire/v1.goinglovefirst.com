@@ -38,3 +38,5 @@ Faruk
 
 ❤️
 </pre>
+
+Come [talk to me](/contact/), and let’s be friends.
