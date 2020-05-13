@@ -31,7 +31,7 @@ redirect_from:
 
           the author of
 
-           my future.
+           my destiny.
 
            I am a
 
