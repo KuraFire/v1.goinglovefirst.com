@@ -58,14 +58,15 @@ ins {
   font-style: italic;
 }
 
+a.asfat,
 a[href$="#asfat"] {
   color: inherit;
   text-decoration: none;
 
-  &:focus,
-  &:hover {
-    cursor: default;
-  }
+  // &:focus,
+  // &:hover {
+  //   cursor: default;
+  // }
 }
 
 :not(blockquote) q {
