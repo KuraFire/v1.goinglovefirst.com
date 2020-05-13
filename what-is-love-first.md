@@ -6,14 +6,15 @@ excerpt: A way of being that connects the people building a brighter, lasting fu
 ---
 
 <!-- what is it? -->
-Hello, and: welcome everyone! <nobr>Love First</nobr> is a way of being, with a shared identity that connects the people building a brighter, lasting future for all of us; a world made with love, _first_.
+Hello, and: welcome everyone! <nobr>Love First</nobr> is a way of being, with a shared identity that connects the people building a brighter, lasting future for all of us: a world made with love, _first_.
 <!-- Hint for those looking under the hood: what might the meaning of a colon be? -->
 
-Love First is [an idea](/love-first-is/idea). Like a seed, this idea can grow into a sapling and, with the right support, become a little tree: strong enough to stand on its own, slowly breathing life into our world. With enough time and nourishment, given enough _love_, this idea can grow new branches of its story, opening up new realms of possibility.
+Love First is [an idea](/love-first-is/idea#asfat). Like a seed, this idea can grow into a sapling and, with the right support, become a little tree: strong enough to stand on its own, slowly breathing life into our world. With enough time and nourishment, given enough _love_, this idea can grow new branches of its story, opening up new realms of possibility.
 
 Realms, some of which we’ve yet to see discovered:
 
 - [A Way Of Being](/love-first-is/way-of-being)
+- [A Framework For Personal Development](/love-first-is/personal-development)
 - <b class="undiscovered">Undiscovered</b>
 - [A Story For All Of Us](/love-first-is/story-for-the-world)
 - <b class="undiscovered">Undiscovered</b>
