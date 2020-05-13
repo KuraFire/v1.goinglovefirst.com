@@ -27,19 +27,19 @@ social:
   name: Faruk Ateş
   links:
     - https://twitter.com/kurafire
-    - https://medium.com/@kurafire
     - https://instagram.com/kurafire
     - https://www.facebook.com/farukates
-    - https://www.linkedin.com/in/farukates
     - https://www.patreon.com/lovefirst
+    - https://medium.com/@kurafire
+    - https://www.linkedin.com/in/farukates
   platforms:
     twitter: 'kurafire'
     facebook: 'farukates'
-    medium: '@kurafire'
+    # medium: '@kurafire'
     instagram: 'kurafire'
-    linkedin: 'farukates'
+    # linkedin: 'farukates'
     patreon: 'lovefirst'
-    # github: 'kurafire'
+    github: 'kurafire'
     # youtube: 'UCPuRuvU8puT0GbWAkuR7Ljw' # Channel ID
 
 twitter:
