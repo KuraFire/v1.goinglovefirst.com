@@ -45,11 +45,11 @@ The overview below previews a selection of articles, essays, and posts I’m wor
 	- I’m The (Unreliable) Narrator And This Is Just The Prologue
 	- I Didn’t Come Here To Tell You How This Is Going To End
 * ✅ [What Is Love First](/what-is-love-first):
-	- [Love First Is… An Idea](/love-first-is/blueprint) (Blueprints For Life)
-	- [Love First Is… A Way Of Being](/love-first-is/ontology)
-	- [Love First Is… A Story For All Of Us](/love-first-is/storytelling) (In A World…)
-	- [Love First Is… A Puzzle](/love-first-is/games)
-	- [Love First Is… A Design System For A Better World](/love-first-is/design-systems) (Made With Love) <span class="post-meta">(A Modernizr For Society)</span>
+	- [Love First Is… An Idea](/love-first-is/idea) (Blueprints For Life)
+	- [Love First Is… A Way Of Being](/love-first-is/way-of-being)
+	- [Love First Is… A Story For All Of Us](/love-first-is/story-for-the-world) (In A World…)
+	- [Love First Is… A Multi-Dimensional Puzzle](/love-first-is/multi-dimensional-puzzle)
+	- [Love First Is… **undiscovered**](/love-first-is/#asfat) <span class="post-meta">(A Modernizr For Society)</span>
 * ✅ [The Principles Of Love First](/principles/):
 	- ✅ [Love](/principles/love)
 	- ✅ [Be Truthful And Transparent](/principles/be-truthful-and-transparent)

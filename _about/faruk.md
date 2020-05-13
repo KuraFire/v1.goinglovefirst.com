@@ -57,6 +57,7 @@ As well as:
 * [Extraordinary Alien](/about/faruk/genius-visa#asfat)
 * [Model (Un)Educated](/about/faruk/high-school-dropout#asfat)
 * [The Chronicler](/about/faruk/chronicler#asfat)
+* [Loser Of Religion](/about/faruk/religion#asfat)
 
 
 
