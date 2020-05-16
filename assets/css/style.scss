@@ -38,5 +38,8 @@
 @import "search";
 @import "media-queries";
 
+// Import GLF-specific PrismJS syntax theme, Tomorrow Night
+@import "prism_glf";
+
 // Import goinglovefirst overrides
 @import "goinglovefirst";
