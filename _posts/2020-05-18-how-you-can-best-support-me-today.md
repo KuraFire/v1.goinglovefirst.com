@@ -19,6 +19,8 @@ Publish something to your preferred social media platform, vouching for me as a 
 
 This can be as simple and broad as “I’ve worked with Faruk, he was cool and I want him to succeed,” to the highly specific: “Faruk wrote something that perfectly expressed or catered to my wants/needs/desires, and I believe he’ll do the same for you one day. His Love First reboot looks intriguing; I’m not quite sure I fully get it yet, but I love what he’s been doing so far and I have a feeling it’s going to be something really special. So check it out!”
 
+**The best starting place for people new to me and/or <nobr>Love First</nobr> is:** `<in progress>`
+
 You and your tribe can also support me with:
 
 #### Your time
@@ -26,6 +28,8 @@ Tell me [What You Love About Love First](/contact/), what got you excited about 
 
 #### Your energy
 Have skills or knowledge that could help me? [Tell Me About Yourself!](/contact/)
+
+**Here’s What I Need Help With:** `<in progress>`
 
 #### Your money
 [<nobr>Become a Patron</nobr>](https://patreon.com/lovefirst), or Venmo me whatever you can spare: <nobr>@KuraFire</nobr>
