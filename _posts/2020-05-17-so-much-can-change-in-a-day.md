@@ -16,3 +16,5 @@ Wait, where was I?
 Right, so, because of that, here's a SHORT video entirely in the tone of #BelieveInPossibility: hopeful, optimistic, full of ideas and dreams, and with a desire to make a difference.
 
 🤗🥰
+
+https://www.facebook.com/farukates/videos/10163523743815055/
