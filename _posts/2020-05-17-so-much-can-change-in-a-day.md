@@ -1,6 +1,6 @@
 ---
 title: So Much Can Change In A Day
-tags: [30 Days Challenge, Of Stories, Of Storytelling, Day One]
+tags: [30 Days Challenge, Of Storytelling, Day One]
 excerpt: So Much Can Change In A Day.
 ---
 
