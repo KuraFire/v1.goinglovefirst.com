@@ -29,7 +29,10 @@ title: Welcome to Love First
     {% endif %}
     <div class="post-feed inner-wide">
         {% for post in paginator.posts %}
+          {% if post.featured %}
+          {% else %}
             {% include postbox.html %}
+          {% endif %}
         {% endfor %}
     </div>
 </div>
