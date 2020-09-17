@@ -1,4 +1,4 @@
-# Going Love First
+# Going Love First . com
 
 Love First is a living standard for life, for those who wish to align themselves together in building a world made with love.
 
