@@ -1,6 +1,6 @@
 ---
 title: What Is Universal Love?
-tags: []
+tags: [Universal Love]
 category: Definitions
 image: /assets/images/posts/2020/greg-rakozy-oMpAz-DN-9I-unsplash.jpg
 image_thumb: /assets/images/posts/2020/greg-rakozy-oMpAz-DN-9I-unsplash_thumbnail.jpg

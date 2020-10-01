@@ -1,6 +1,7 @@
 ---
 title: America’s Apocalypse
 category: Journal
+tags: [A New America]
 featured: true
 image: /assets/images/posts/2020/thibault-penin-ZnGig51NSCQ.jpg
 image_thumb: /assets/images/posts/2020/thibault-penin-ZnGig51NSCQ-thumbnail.jpg

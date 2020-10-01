@@ -1,5 +1,6 @@
 ---
 title: Create A Better World (For) Tomorrow
+tags: [How To]
 category: [how-to]
 image: "/assets/images/posts/2020/dewang-gupta-IJXbmfBdIZk.jpg"
 image_thumb: "/assets/images/posts/2020/dewang-gupta-IJXbmfBdIZk-thumbnail.jpg"
