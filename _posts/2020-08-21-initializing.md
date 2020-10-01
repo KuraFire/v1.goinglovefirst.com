@@ -2,7 +2,7 @@
 title: "Love First: Initializing…"
 tags:
 - Announcements
-featured: true
+#featured: true
 image: /assets/images/posts/2020/ramakrishnan-nataraj-s6LqfZ8WvF8-original.jpg
 image_thumb: /assets/images/posts/2020/ramakrishnan-nataraj-s6LqfZ8WvF8-thumbnail.jpg
 image_credit: Ramakrishnan Nataraj
