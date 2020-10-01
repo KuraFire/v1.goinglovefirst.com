@@ -6,7 +6,7 @@ image: /assets/images/posts/2020/thibault-penin-ZnGig51NSCQ.jpg
 image_thumb: /assets/images/posts/2020/thibault-penin-ZnGig51NSCQ-thumbnail.jpg
 image_credit: Thibault Penin
 image_source: https://unsplash.com/photos/ZnGig51NSCQ
-excerpt:
+excerpt: And the good kind of apocalypse it's about to experience.
 ---
 
 I'm no big fan anymore of Umair Haque’s doomsaying; not because he’s inaccurate—he’s been consistently more accurate than almost anyone else—but because predicting a worse future than the present is easy. Decay is the natural progression of the universe. It takes hope and imagination to envision a brighter future, and courage to believe in it—none of which are found much when studying decay.

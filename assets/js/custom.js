@@ -21,7 +21,7 @@
     // Responsive video embeds
     $('.post-content').fitVids();
 
-    // Remove fbclid
+    // Remove unwanted parameters from Facebook, Google
     removeParam('fbclid');
     removeParam('__source');
 

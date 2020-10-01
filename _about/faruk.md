@@ -60,7 +60,5 @@ As well as:
 * [Loser Of Religion](/about/faruk/religion#asfat)
 
 
-
-
-> Love. Evolve. Connect.
-<cite>Faruk’s <em>three words</em></cite>
+<cite>Faruk’s <em>three words</em>:</cite>
+### Love. Evolve. Connect.

@@ -1,0 +1,37 @@
+---
+title: This Is Timeless
+tags: []
+category: [this-is]
+image: /assets/images/posts/2020/faruk-timeless-crop.jpg
+image_thumb: /assets/images/posts/2020/faruk-timeless-crop-thumbnail.jpg
+image_credit: "Jacqueline Bui"
+image_source:
+excerpt: "Today is my -0x56 birthday, but I have a much better answer to the question of how old I am: I’m timeless."
+---
+
+Today is my `-0x56` birthday, but for some time now I’ve had a much better answer to the question _“how old are you?”_
+
+**I’m timeless.**
+
+There are three distinct reasons I respond that way:
+
+## Age Is (Not) Just A Number
+There is no inherent meaning to the year of your body’s birth.  One’s physical age does not represent one’s emotional maturity or spiritual development, yet because it’s the only thing we can numerically track easily we’ve put enormous importance on it. Arbitrary concepts like generations are shoved onto you without your consent, and their effective role has increasingly become polarizing, divisive, and limiting. I’m classified as a Millennial, but I care not about being forced into a shared identity defined by social researchers I’ve never heard of.
+
+There is value to these social constructs, don’t get me wrong: they help us understand shifts across society in economics, social justice, activism movements, political beliefs and ideologies, et cetera. We use generations and ages to _create_ meaning, but we’ve failed to identify the ways in which they hurt us and hold us back as people. Culturally, Boomers and Millennials seem in opposition to one another. Many people rebel against their parents, sire, but… should that be the defining dynamic of an entire age group?
+
+## Your Identity Is Not Fixed—So Play With It!
+Nothing about who you are is truly fixed, your age being perhaps the most obvious evidence of it. You are not the number of years you’ve lived on this planet, you are a unique and wonderful and ideally omni-loving person.
+
+The Census Model Of Identity is a mould that needs to be broken, dismantled and understood for its benefits _and_ its shortcomings, and then recreated to serve us better. If we answer identity questions the same old (boring) ways as before, we forgo the opportunity to make the world better by inspiring people to think differently about what identity means.  When you think of me, I don’t want you to think of “a 34-year old man”—I want you to think of Faruk. Catdragon and puppy. Time traveler. Love First Person.
+
+Something more unique to _me_. Something that actually represents who I am.
+
+## Be Authentic
+The number of my corporeal years in this world does not feel like an authentic measure for me. I don’t identify by my age, and I don’t think people are served well by how much emphasis and meaning we place upon it.
+
+If you embrace your numerical age, if it feels authentic to you, and if it serves a _positive_ influence in your life to identify that way, then all the more power to you. I’m not here to tell you what to do or how to live; I’m here to show you that there are other ways of being, of identifying as a person, that are just as valid and legitimate. Ways that may ultimately serve you and our society a great deal better.
+
+But I can only show you the door. You’re the one that has to walk through it.
+
+This Is Timeless.
