@@ -14,3 +14,6 @@ gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-admin', group: :jekyll_plugins
 
 gem 'jekyll-redirect-from'
+
+gem "kramdown", ">= 2.3.0" 
+gem "rack", ">= 2.1.4"
